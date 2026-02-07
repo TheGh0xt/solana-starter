@@ -20,3 +20,25 @@
 - 2VFqkmqGc4WR4VxFvFfw66zeRfCpB9i6LutHtyfEyNmpYDnWn5jeQU42GZWRmsZECXqgoNQYEVhjSUiXpAz5Cqud --- Transferred 100 tokens to wallet
 
 ![transfer-mint-page-on-solscan](images/image-2.png)
+
+## turbin3-nft-mint
+
+- aEXvAQ57sFzssbjFJnWTu6qcAUEXYWoX11NjkW3kBMVNrDLP717Q62HcpAAJjuHMaNY87aa5ixhBqkgqHASkADV -- NFT Mint TX Hash
+
+- https://explorer.solana.com/tx/aEXvAQ57sFzssbjFJnWTu6qcAUEXYWoX11NjkW3kBMVNrDLP717Q62HcpAAJjuHMaNY87aa5ixhBqkgqHASkADV?cluster=devnet -- NFT Mint Page On Solscan
+
+- {transaction hash goes here after trade} -- NFT Transfer TX Hash
+
+![TheGh0xt-NFT](images/nft-screenshot.png)
+
+* Reflection
+- Problem with trading NFT on discord:
+  - It takes longer for people to respond to your trade request.
+  - You have to trust the person you are trading with.
+  - You have to manually send the NFT to the other person.
+
+- Proposed Solution:
+  - Create a trustless NFT marketplace on Solana.
+  - Users can list their NFTs for sale and trade with other users seamlessly and instantly without fear of being scammed due to manual hold and delays.
+  
+
